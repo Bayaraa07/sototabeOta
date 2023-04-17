@@ -10,7 +10,7 @@
 				<string>arm64</string>
 			</array>
 			<key>buildNumber</key>
-			<string>64</string>
+			<string>1</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
@@ -1281,7 +1281,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>6b5d899e-9b4c-45fe-8077-2a7beff86e3b</string>
+				<string>3bf940ef-984c-48c1-9d8d-6206bed06244</string>
 				<key>dateExpires</key>
 				<string>2023.08.01</string>
 				<key>name</key>
@@ -1295,7 +1295,7 @@
 				<string>VIS A VIS, K.K.</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>1.0.64</string>
+			<string>1.0.65</string>
 		</dict>
 	</array>
 </dict>
